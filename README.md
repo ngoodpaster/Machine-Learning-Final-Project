@@ -9,8 +9,8 @@ Project Guidelines:
 
 File Description:
 
-In dataSet.py, we get all the data from the quandl dataset that we want, and store it in a text file, foo.txt.
-In features.py, we use the data in foo.txt to predict the future stock prices.
+- In dataSet.py, we get all the data from the quandl dataset that we want, and store it in a text file, foo.txt.
+- In features.py, we use the data in foo.txt to predict the future stock prices.
 
 
 # Data set info
