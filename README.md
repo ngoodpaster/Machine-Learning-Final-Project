@@ -13,8 +13,7 @@ File Description:
 - In features.py, we use the data in foo.txt to predict the future stock prices.
 
 
-# Data set info
-Using Quandl's free data set WIKI Prices - https://www.quandl.com/product/WIKIP/WIKI/PRICES-Quandl-End-Of-Day-Stocks-Info
-Quandl Documentation - https://docs.quandl.com/docs/tables-3#section-filter-rows
+Data set info
 
-
+- Using Quandl's free data set WIKI Prices - https://www.quandl.com/product/WIKIP/WIKI/PRICES-Quandl-End-Of-Day-Stocks-Info
+- Quandl Documentation - https://docs.quandl.com/docs/tables-3#section-filter-rows
